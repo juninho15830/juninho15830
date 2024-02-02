@@ -1,7 +1,16 @@
 ## Olá! Sou Jair Redigolo Junior
-## Desenvolvedor Front-End
+<h3>Desenvolvedor Web Front-End </h3>
 
 ![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
+
+<p> Formado em Analise e Desenvolvimento de Sistemas, Arquitetura de Software e Desenvolvimento Web Full Stack.</p>
+
+<p>Meus projetos se encontram em meu site portfólio www.jairjr.dev</p>
+
+<p>Atualmente estou focando meus estudos em Nextjs e Nodejs</p>
+
+<p>Criatividade, facilidade em aprender e ensinar, trabalho em equipe e raciocínio lógico fazem parte do meu perfil.</p>
+
 
 [![Site](https://img.shields.io/website?label=jairjr.dev&style=for-the-badge&url=https://www.jairjr.dev/)](https://www.jairjr.dev)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairredigolojunior/)
@@ -22,4 +31,5 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia.
+![Juninho15830 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juninho15830&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
+
