@@ -1,6 +1,6 @@
 ## Olá! Eu sou Jair Redigolo Junior
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
 
 [![Site](https://img.shields.io/website?label=jairjr.dev&style=for-the-badge&url=https://www.jairjr.dev/)](https://www.jairjr.dev)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairredigolojunior/)
