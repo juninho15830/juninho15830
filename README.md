@@ -1,4 +1,5 @@
-## Olá! Eu sou Jair Redigolo Junior
+## Olá! Sou Jair Redigolo Junior
+## Desenvolvedor Front-End
 
 ![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
 
