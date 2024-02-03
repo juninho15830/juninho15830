@@ -37,5 +37,5 @@
 
 ## Videos de apresentação de projetos
 
-<a href="https://youtu.be/T9tc_p42_xA?si=LEm0TcofNUF_aTH2">Space-Time</a>
-
+<a href="https://youtu.be/T9tc_p42_xA?si=LEm0TcofNUF_aTH2">Space-Time</a> <br> <br>
+<a href="https://youtu.be/n6KKB5nYZZQ?si=Bq9JqAB6SopfqhUk">My-Finaces</a> <br>
