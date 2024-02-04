@@ -1,4 +1,7 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
+
+# ![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
+
 name: Generate Snake
 
 # Controls when the action will run.
