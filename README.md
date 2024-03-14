@@ -3,6 +3,12 @@
 </h1>
 <h3>Desenvolvedor Web Front-End </h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
 
 <p> Formado em Analise e Desenvolvimento de Sistemas, Arquitetura de Software e Desenvolvimento Web Full Stack.</p>
